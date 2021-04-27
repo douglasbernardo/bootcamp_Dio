@@ -1,1 +1,6 @@
-![image](https://user-images.githubusercontent.com/43753293/116317680-09ff8c00-a78a-11eb-9ff4-0c5945f76e14.png)
+![salvarGithub](https://user-images.githubusercontent.com/43753293/116318968-1258c680-a78c-11eb-906c-61f32224a805.png)
+
+#Tecnologias Usadas
+-Javascript
+-HTML5
+-CSS3
