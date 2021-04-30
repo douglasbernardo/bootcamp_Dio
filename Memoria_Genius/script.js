@@ -25,10 +25,10 @@ let shuffleOrder = ()=>{
 }
 //acende a proxima cor
 let lightColor = (element,number)=>{
-    number = number*500
+    number *=500
     setTimeout(()=>{
         element.classList.add('selected')
-    },number - 250)
+    },number - 200)
 
     setTimeout(()=>{
         element.classList.remove('selected')
