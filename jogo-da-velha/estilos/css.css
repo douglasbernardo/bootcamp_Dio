@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+div label{
+    font-family:cursive;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.quadrado{
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 50px;
+    cursor: pointer;
+    margin: 5px;
+    color: #eee;
+}
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    background: #eee;
+    cursor: pointer;
+    border-radius: 10px;
+}
